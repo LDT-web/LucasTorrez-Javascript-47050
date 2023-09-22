@@ -2,23 +2,6 @@ alert("Bienvenido a wilgray ");
 
 const compra = [];
 
-// const remera = {
-//   nombre: "remera",
-//   color: "blanco",
-//   talle: 16,
-//   precio: 100,
-//   cantidad: 1,
-// };
-// const pantalon = {
-//   nombre: "pantalon",
-//   color: "negro",
-//   talle: 42,
-//   precio: 200,
-//   cantidad: 1,
-// };
-
-// compra.push(remera);
-// compra.push(pantalon);
 function agregar() {
   const nombreProducto = prompt(
     "Los productos que tenemos son \nremeras \npantalones \ny zapatillas"
